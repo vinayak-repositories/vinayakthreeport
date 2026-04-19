@@ -49,7 +49,7 @@ const modalContent={
     "proj3": {
         title: "3D Web Portfolio",
         description: "A 3D interactive web portfolio built using Three.js, showcasing my projects and skills in a unique and engaging way. Explore my work in a dynamic 3D environment and discover my creative journey. it have a lot of easter eggs 🥚👀. do find them! and check out the links!",
-        link: "http://www.google.com",
+        link: "https://vinayakthreeport.vercel.app/",
     },
     "skills": {
         title: "Skills",
@@ -57,12 +57,12 @@ const modalContent={
     },
      "Chest": {
     title: "💁 About Me",
-    content:
+    description:
       "Hi you found my chest👋, I'm Vinayak and I am an aspiring creative developer. I just started web development ! In the signs, you will see some of my most recent projects that I'm proud of. I hope to add a lot more in the future. In my free time, I like to draw, watch standups (especially Anime), do a bit of everything. Reach out if you wanna chat.",
   },
   "Picnic": {
     title: "Party Vibes",
-    content:
+    description:
       "i love to party! and this is a picnic party with my friends, we had so much fun and we danced all night long. it was a memorable night and i hope to have more parties like this in the future. we also had partied hard in our hostels and made a lot of noise, but it was worth it! the memories we made will last a lifetime.",
   },
 }
